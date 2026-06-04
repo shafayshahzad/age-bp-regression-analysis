@@ -74,6 +74,5 @@ Conducted as part of **Statistics II** at the **Lahore School of Economics**.
 
 ## Course Details
 - **Course:** Statistics II — Section G
-- **Institution:** Lahore School of Economics
-- **Instructor:** Ms. Ayesha Zahid
-- **Year:** 2024
+
+
